@@ -1,0 +1,11 @@
+Name
+Job Title/Profile
+Contact detail(Email,Number,location,linkedin,github)
+Professional Summary
+Work Experience (profile,company name,serving period,kra & kpi(what work you do),)
+Education (course name, college name, studying period, academic achievements,projects)
+projects (Alarm clock)
+Skills -->
+technical skills (vs code,git,github)
+Soft skills (comminication,manangement)
+Certificates
